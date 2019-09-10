@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0dcaae8-5eb2-4007-975b-c4a688614ffe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/tweets/mixins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweets/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweets/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweets/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweets/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweets/templates/tweets/create_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweets/templates/tweets/create_view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tweets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tweets/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,10 +30,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/tweets/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+            <state relative-caret-position="270">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
-                <element signature="e#0#54#0" expanded="true" />
+                <element signature="e#0#4#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tweets/mixins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#4#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/tweets/templates/tweets/create_view.html" />
         <option value="$PROJECT_DIR$/src/tweets/forms.py" />
         <option value="$PROJECT_DIR$/src/tweets/admin.py" />
+        <option value="$PROJECT_DIR$/src/tweets/mixins.py" />
         <option value="$PROJECT_DIR$/src/tweets/views.py" />
       </list>
     </option>
@@ -239,7 +250,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567588623714</updated>
       <workItem from="1567588669771" duration="6300000" />
-      <workItem from="1567606405776" duration="19588000" />
+      <workItem from="1567606405776" duration="20901000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore file to handle the files that will be excluded">
       <created>1567606945175</created>
@@ -252,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25888000" />
+    <option name="totallyTimeSpent" value="27201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="846" y="23" width="594" height="831" extended-state="0" />
@@ -453,12 +464,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tweets/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#4#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/tweets/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
+            <element signature="e#0#4#0" expanded="true" />
           </folding>
         </state>
       </provider>
